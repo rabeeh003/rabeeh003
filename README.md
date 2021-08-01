@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rabeeh
+- 👋 Hi, I’m rabeeh
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on developers

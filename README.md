@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on developers
-- 📫 How to reach me : on github
+- 📫 How to reach me : rabimon003@gmail.com
 
 <!---
 rabeeh003/rabeeh003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

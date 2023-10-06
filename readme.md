@@ -11,7 +11,6 @@
 </p>
 
  -->
-
 <a href="https://komarev.com/ghpvc/?username=rabeeh003">
   <img align="right" src="https://komarev.com/ghpvc/?username=rabeeh003&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -54,29 +53,29 @@
  </a> 
 </p>
 <br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <div align='center' class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rabeeh-pk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rabeeh-pk?trk=profile-badge">RABEEH PK</a></div>
-              
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: rabimon003@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/rabeeh003/rabeeh003/issues)
-
+<img align='center' src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="200" />  
+  <img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="200">
 </p>
-
 <br/>
 <br/>
-<br/>
+<img align='center' src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<div align="center" >
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabeeh003&show_icons=true&locale=en&layout=compact" alt="rabeeh003" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabeeh003&show_icons=true&locale=en" alt="rabeeh003" /></p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
+<br/>
+<br/>
+<img align='center' src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
+
+<div align="center" >
+  
+![](https://github-readme-stats.vercel.app/api?username=rabeeh003&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rabeeh003&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabeeh003&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+

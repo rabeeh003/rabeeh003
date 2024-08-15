@@ -11,7 +11,7 @@
 </p>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://rabeeh003.github.io/rabeeh.com/">Rabeeh PK</a></b>
+                <b><a target="_blank" href="https://rabeeh.vercel.app/">Rabeeh PK</a></b>
         </samp>
 </h3>
 
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
- <a href="https://rabeeh003.github.io/rabeeh.com/" target="blank">
+ <a href="https://rabeeh.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rabeehpk" />
  </a>
  <a href="https://linkedin.com/in/rabeeh-pk" target="_blank">

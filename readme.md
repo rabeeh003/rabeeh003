@@ -20,7 +20,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Rabeeh+PK">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer using <b>Django + React</b> 」
+    「 Fullstack web-application developer, mobile app developer, and Desktop app developer 」
     <br>
     <br>
   </samp>
